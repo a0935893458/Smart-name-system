@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iBeacon</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="modify_beacon">修改參數</string>
+    <string name="start_modify">開始修改</string>
+    <string name="get_device_info">取得資料</string>
+    <string name="battery">電量：</string>
+    <string name="getBattery"> 取得電量</string>
+    <string name="transmitting_power">發射功率：</string>
+    <string name="get_transmitting_power">獲取發射功率</string>
+    <string name="advinterval">廣播頻率：</string>
+    <string name="get_advinterval">獲取廣播頻率</string>
+    <string name="firmware_version">版本:</string>
+    <string name="get_firmware_version">獲取版本</string>
+    <string name="manufacturer">製造商:</string>
+    <string name="get_manufacturer">獲取製造商</string>
+    <string name="start_background_notify">開啟後台通知</string>
+
+    <string name="input_password">輸入密碼</string>
+    <string name="cancel">取消</string>
+    <string name="sure">確定</string>
+
+    <string name="change_model_to_ulr">更改模式為ULR</string>
+    <string name="current_model">當前模式：</string>
+    <string name="change_model_to_uid">更改模式為UID</string>
+    <string name="change_model_to_ibeacon">更改模式為iBeacon</string>
+    <string name="change_model_to_ibeacon_uid_url">更改模式為iBeacon_UID_URL</string>
+    <string name="change_url">更改ULR</string>
+    <string name="change_uid">更改UID</string>
+    <string name="change_uid_name_space">更改uid_name_space</string>
+    <string name="change_uid_custom">更改uid_custom</string>
+
+    <string name="url">http://172.20.10.5</string>
+
+</resources>
